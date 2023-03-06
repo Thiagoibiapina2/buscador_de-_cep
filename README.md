@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Descrição do projeto
+
+projeto feito em react com a função de pesquisar um endereçõ pelo CEP e trazer as informações correspodentes atraves da 
+Api:viacep.com.br/ws/01001000/json/
