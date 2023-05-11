@@ -1,7 +1,7 @@
 import axios from "axios"
 
 const Api = axios.create({
-baseURL: "http://viacep.com.br/ws/"
+baseURL: "https://viacep.com.br/ws/"
 });
 
 
